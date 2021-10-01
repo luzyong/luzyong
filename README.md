@@ -5,6 +5,7 @@ _Me gusta mucho resolver problemas, tengo facilidad para abstraerlos y para conv
 _Estoy interesada también en la Inteligencia Artificial, en el Cloud Computing y me gusta mucho usar Linux; aspiro a mejorar mis habilidades e incrementar mis conocimientos en estas áreas._
 _Considero que siempre hay algo nuevo que aprender y la mejor forma de hacerlo es intentando aplicarlo, aunque las primeras veces no sepamos qué hacemos._
 - Contacto: luanberry984@gmail.com
+<img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="140">
 ## Las tecnologías que conozco y que he usado.
 _No me considero una experta en ninguna de ellas, pero he tenido la oportunidad de trabajar con las siguientes tecnologías. Algunas las he usado más o de forma más reciente._
 ### Lenguajes de programacion.
@@ -53,7 +54,7 @@ _Estoy interesada en aprender:_
 - Linux
 - Estoy estudiando para ver si logro obtener la primer certificación de Azure
 
-<img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="120">
+
 
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
