@@ -53,6 +53,8 @@ _Estoy interesada en aprender:_
 - Linux
 - Estoy estudiando para ver si logro obtener la primer certificación de Azure
 
+<img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="120">
+
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
