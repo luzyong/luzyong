@@ -5,7 +5,7 @@ _Me gusta mucho resolver problemas, tengo facilidad para abstraerlos y para conv
 _Estoy interesada también en la Inteligencia Artificial, en el Cloud Computing y me gusta mucho usar Linux; aspiro a mejorar mis habilidades e incrementar mis conocimientos en estas áreas._
 _Considero que siempre hay algo nuevo que aprender y la mejor forma de hacerlo es intentando aplicarlo, aunque las primeras veces no sepamos qué hacemos._
 
-<p align ="center"><img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="180" align="center"></p> 
+<p align ="center"><img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="195" align="center"></p> 
 
   
 ## Las tecnologías que conozco y que he usado.
