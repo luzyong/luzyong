@@ -56,9 +56,7 @@ _Estoy interesada en aprender:_
 - Linux
 
 ## Logros
-```html
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="66063029-3c1d-4fb7-b041-9d36885994ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-```
+<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="48"> 
 
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
