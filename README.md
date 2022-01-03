@@ -56,8 +56,20 @@ _Estoy interesada en aprender:_
 - Linux
 
 ## Logros
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="66063029-3c1d-4fb7-b041-9d36885994ba" data-share-badge-host="https://www.credly.com"></div>
+```html
+<h2>Example of code</h2>
 
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Your title</h2>
+            <div class="wrap">
+            //Your content
+            </div>
+        </div>
+    </div>
+</pre>
+```
 
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
