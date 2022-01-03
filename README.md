@@ -56,7 +56,7 @@ _Estoy interesada en aprender:_
 - Linux
 
 ## Logros
-<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="48"> 
+<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> 
 
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
