@@ -45,7 +45,7 @@ _No me considero una experta en ninguna de ellas, pero he tenido la oportunidad 
 _Estoy interesada en aprender:_
 - Spring para java (Y mejorar mis habilidades en Java)
 - Laravel para PHP (Y mejorar mis habilidades en PHP)
-- Django para Python (ídem)
+- Golang
 - JavaScript
 - Python para Inteligencia Artificial y Machine Learning
 - Desarrollo de aplicaciones para Android
