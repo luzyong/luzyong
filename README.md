@@ -44,9 +44,6 @@ _No me considero una experta en ninguna de ellas, pero he tenido la oportunidad 
 ## ¿Qué me interesa actualmente?
 _Estoy interesada en aprender:_
 - Spring para java (Y mejorar mis habilidades en Java)
-- Laravel para PHP (Y mejorar mis habilidades en PHP)
-- Golang
-- JavaScript
 - Python para Inteligencia Artificial y Machine Learning
 - Desarrollo de aplicaciones para Android
 
@@ -56,9 +53,7 @@ _Estoy interesada en aprender:_
 - Linux
 
 ## Logros
-<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> 
-<img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_CERT-Fundamentals-Power-Platform.png" width="98"> 
-<img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_image.png" width="98"> 
+<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_CERT-Fundamentals-Power-Platform.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_image.png" width="98"> 
 
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
