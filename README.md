@@ -45,6 +45,8 @@ _Los caminos de IT son misteriosos y me trajeron aquí:_
 ## Credenciales
 <img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_CERT-Fundamentals-Power-Platform.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_image.png" width="98"> 
 
+-https://www.credly.com/users/luz-yong
+
 <!---
 luzyong/luzyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
