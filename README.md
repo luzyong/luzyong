@@ -8,41 +8,27 @@ _Siempre hay algo nuevo que aprender y la mejor forma de hacerlo es intentarlo, 
 <p align ="center"><img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="195" align="center"></p> 
 
   
-## Las tecnologías que conozco y que he usado.
-_No me considero una experta en ninguna de ellas, pero he tenido la oportunidad de trabajar con las siguientes tecnologías. Algunas las he usado más o de forma más reciente._
-### Lenguajes de programacion.
-<img src="https://github.com/luzyong/luzyong/blob/main/html5-with-wordmark-color.svg" width="58"> <img src="https://github.com/luzyong/luzyong/blob/main/c-programming-language-seeklogo.com.svg" width="48"> 
-<img src="https://github.com/luzyong/luzyong/blob/main/php-seeklogo.com.svg" width="70">
-<img src="https://github.com/luzyong/luzyong/blob/main/java-seeklogo.com.svg" width="48">
-<img src="https://github.com/luzyong/luzyong/blob/main/python-seeklogo.com.svg" width="48">
-<img src="https://github.com/luzyong/luzyong/blob/main/dart-programming-language-seeklogo.com.svg" width="120">
+## ¿Quién es? ¿Qué estudió?
+_Fíjate que los caminos de la vida no son como yo pensaba, no son como yo creía..._
 
-### Frameworks.
-<img src="https://github.com/luzyong/luzyong/blob/main/flutter-seeklogo.com.svg" width="120">
+_Cuando era una secunena se me daba rebien el HTML y los diagramas de flujo. Sí, he estudiado informática desde que tenía 12._
 
-### Entornos para backend.
-<img src="https://github.com/luzyong/luzyong/blob/main/nodejs-seeklogo.com.svg" width="48">
+_Luego en el medio superior estudié Sistemas Digitales y se me daba rebien el HTML, el lenguaje ensamblador, el C y el PHP. Y el arduino, no olvidemos el arduino._
 
-### Sistemas Gestores de Bases de Datos.
-<img src="https://github.com/luzyong/luzyong/blob/main/mysql-seeklogo.com.svg" width="48"> <img src="https://github.com/luzyong/luzyong/blob/main/mongodb-seeklogo.com.svg" width="88">
-<img src="https://github.com/luzyong/luzyong/blob/main/firebase-seeklogo.com.svg" width="48">
+_Luego ya en la superior estudié Informática y ya no me gustó tanto HTML porque ya venía con CSS, pero se me siguió dando ensamblador, C y conocí Java y al amor de mi vida el Cloud Computing. Ya en los últimos semestres le metí durísimo a Linux y a Azure en su momento y después a AWS. Aprendí a programar en Python y conocí la inteligencia artificial. De hecho el Cloud Computing y la IA cambiaron mis planes, porque yo quería estudiar ciberseguridad, pero la verdad es que me aburren un poquito las redes._
 
-### Sistemas de Colas.
-<img src="https://github.com/luzyong/luzyong/blob/main/rabbitmq-seeklogo.com.svg" width="48">
+_Ya al final de mi carrera sucedieron cositas, pero de mientras saqué mi primera certificación e hice una chamba de programación web que me quitó las ganas de ser frontend developer. Luego trabajé 6 meses en el desarrollo de una app, en donde conocí Dart/Flutter y el sistema de notificaciones y colas, firebase y trabajé un poco con máquinas virtuales de AWS. Igual aprendí mucho sobre las bases de datos no relacionales. Después de esa chamba, me dediqué a dar clases de programación y computación en la nube. Enseñé Python y Java y en ese entonces un curso muy básico de los servicios de Azure. Igual tuve algunos cursos de programación con lenguaje ensamblador para PIC. Mi interés por la Inteligencia Artificial surgió por un juego que se llama Cell to Sigularity en donde conocí el concepto de Singularidad. En ese entonces llevaba dos materias de introducción a la inteligencia artificial y entregué un proyecto que usaba una biblioteca de google para reconocimiento de imagenes y gestos, en mi caso LSM, que mandaba cambios de estado a un arduino (prendia y apagaba una tira led)._
 
-### Servicios de Cloud Computing.
-<img src="https://github.com/luzyong/luzyong/blob/main/microsoft-azureicon-seeklogo.com.svg" width="48"> <img src="https://github.com/luzyong/luzyong/blob/main/aws-seeklogo.com.svg" width="70">
+_Ya que conseguí **Mi primera chamba** formal, me dediqué a la programación en Python para automatizar, pero en medio de las automatizaciones aprendí un poquitito de redes y seguridad, aprendí a usar APIs y hubo un proyecto inconcluso para desarrollar nuestra propia API. Usé muchísimo las APIs de CISCO y ahí aprendí a usar Power BI, pandas, un poquito de matplotlib y por fin aprendí sobre contenedores. Hice mucho análisis de datos para un proyecto de migración de un cliente, entonces los CSV estaban a la orden del día. Durante esos dos años, desarrollé muchas cosas, la mayoría enfocadas a la automatización de creación de reportes para distintas áreas de ingeniería, entonces consumía muchas APIs, hacía mucha limpieza de datos y graficaba muchas cosas. Los contenedores fueron una combinación de interés pasada y necesidad de trabajo, pero fueron un tema muy interesante de aprender. Ya para el final me dediqué a hacer ciencia de datos por interés, aprovechando la cantidad de información que tenía de todos los reportes que sacaba. Ahh, también usé bastante S3 y EKS para mis proyectos. Fuera de la chamba me dediqué a seguir aprendiendo sobre la nube y sobre Python. En esos dos años saqué mis otras dos certificaciones._
 
-### Sistemas Operativos.
-<img src="https://github.com/luzyong/luzyong/blob/main/windows-seeklogo.com.svg" width="48"> <img src="https://github.com/luzyong/luzyong/blob/main/tux-seeklogo.com.svg" width="48">
+_Y ya al final, me moví a AWS como ingeniera de soporte para RDS y todos los servicios de bases de datos de MySQL. Fue un trabajo sumamente retador en muchos aspectos, pero aprendí muchísimo sobre AWS y la nube._
 
-### Otras herramientas.
-<img src="https://github.com/luzyong/luzyong/blob/main/visual-studio-code-seeklogo.com.svg" width="48"> <img src="https://github.com/luzyong/luzyong/blob/main/netbeans-seeklogo.com.svg" width="48">
-<img src="https://github.com/luzyong/luzyong/blob/main/virtual-box-seeklogo.com.svg" width="120"> <img src="https://github.com/luzyong/luzyong/blob/main/git-seeklogo.com.svg" width="48">
+_Ahorita busco regresar al desarrollo de software, a la ciencia de datos y sinceramente a aprender sobre las cosas que me llaman la atención. Sigo dando clases de programación y doy algunas asesorías sobre la nube._
 
+_Entonces, a grandes rasgos, es lo que he hecho hasta los días que podemos llamar presente._
 
 ## ¿Qué me interesa actualmente?
-_A lo largo de mi carrera he podido enfocarme en mayor o menor medida en mis temas de interés:_
+_Los caminos de IT son misteriosos y me trajeron aquí:_
 - Ciencia de datos y Machine Learning
 - Power BI
 - Python para análisis de datos y automatización
@@ -53,7 +39,8 @@ _A lo largo de mi carrera he podido enfocarme en mayor o menor medida en mis tem
 ## ¿Qué estoy aprendiendo actualmente?
 - Python PCPP1
 - AWS Solutions Architect SAA-C03
-- Linux
+- Power BI PL-300
+- Todo lo que me soliciten en clase
 
 ## Credenciales
 <img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_CERT-Fundamentals-Power-Platform.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_image.png" width="98"> 
