@@ -1,9 +1,9 @@
 # ¡Bienvenidx a mi perfil de GitHub!
 _Hola, mi nombre es Luz Yong._
-_Soy **Future<Título>** ingeniera en informática. Me apasionan los lenguajes de programación y uno de mis pasatiempos favoritos es aprenderlos._
-_Me gusta mucho resolver problemas, tengo facilidad para abstraerlos y para convertirlos en código._
-_Estoy interesada también en la Inteligencia Artificial, en el Cloud Computing y me gusta mucho usar Linux; aspiro a mejorar mis habilidades e incrementar mis conocimientos en estas áreas._
-_Considero que siempre hay algo nuevo que aprender y la mejor forma de hacerlo es intentando aplicarlo, aunque las primeras veces no sepamos qué hacemos._
+_Soy **Future<Título>** ingeniera en informática. La programación es de las cosas más bonitas que he podido hacer._
+_Me gusta mucho resolver problemas y entender cómo funcionan las cosas._
+_La computación en la nube y la inteligencia artificial son mis temas de interés actual._
+_Siempre hay algo nuevo que aprender y la mejor forma de hacerlo es intentarlo, aunque las primeras veces no sepamos qué hacemos._
 
 <p align ="center"><img src="https://github.com/luzyong/luzyong/blob/main/E-KbtuHXsAAozlJ.jpg" width="195" align="center"></p> 
 
@@ -42,17 +42,20 @@ _No me considero una experta en ninguna de ellas, pero he tenido la oportunidad 
 
 
 ## ¿Qué me interesa actualmente?
-_Estoy interesada en aprender:_
-- Spring para java (Y mejorar mis habilidades en Java)
-- Python para Inteligencia Artificial y Machine Learning
-- Desarrollo de aplicaciones para Android
+_A lo largo de mi carrera he podido enfocarme en mayor o menor medida en mis temas de interés:_
+- Ciencia de datos y Machine Learning
+- Power BI
+- Python para análisis de datos y automatización
+- Cloud Computing
+- Containers y Kubernetes
+- Todo lo que parezca que se hace solito
 
 ## ¿Qué estoy aprendiendo actualmente?
-- Python
-- Java
+- Python PCPP1
+- AWS Solutions Architect SAA-C03
 - Linux
 
-## Logros
+## Credenciales
 <img src="https://github.com/luzyong/luzyong/blob/main/microsoft-certified-azure-fundamentals.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_CERT-Fundamentals-Power-Platform.png" width="98"> <img src="https://github.com/luzyong/luzyong/blob/main/twitter_thumb_201604_image.png" width="98"> 
 
 <!---
